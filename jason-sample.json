@@ -1,0 +1,11 @@
+{
+	"title" : "smoke on the water",
+	  "artist" : "Deep purple",
+		"song" : [{
+			"text" : "Smoke on the water".
+		   	"chords" : [
+				"value" : "C#",
+		  		"placement" : 3
+			]
+		}]
+}
